@@ -1,0 +1,8 @@
+com\agrotech\rpc\ServicioAnalitica.class
+com\agrotech\domain\Lectura.class
+com\agrotech\App.class
+com\agrotech\routes\SensDataRoute.class
+com\agrotech\config\DatabaseConfig.class
+com\agrotech\routes\FieldControlRoute.class
+com\agrotech\routes\AgroAnalyzerRoute.class
+com\agrotech\config\DatabaseConfig$1.class
